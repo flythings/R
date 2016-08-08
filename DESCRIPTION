@@ -1,0 +1,13 @@
+Package: flythings
+Type: Package
+Title: Flythings connection
+Version: 0.1.0
+Author: Gonzalo Blázquez Gil <gblazquez@itg.es>
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Depends:
+  httr,
+  jsonlite
